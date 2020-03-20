@@ -1,0 +1,15 @@
+Flask~=1.0
+Flask-Login~=0.4
+Flask-Session~=0.3
+Flask_SocketIO~=4.2
+itsdangerous~=1.1
+Jinja2~=2.10
+MarkupSafe~=1.1
+python-engineio~=3.12
+python-socketio~=4.5
+six~=1.11
+Werkzeug~=0.14
+eventlet~=0.25
+gevent~=1.4
+gevent-websocket~=0.10
+
